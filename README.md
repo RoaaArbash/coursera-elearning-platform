@@ -1,4 +1,4 @@
-:# Coursera E-Learning Platform 🚀
+Coursera E-Learning Platform 🚀
 
 An educational platform inspired by Coursera, designed to provide users with a seamless and interactive learning experience. Developed as a Web Programming project at Arab International University (AIU).
 
